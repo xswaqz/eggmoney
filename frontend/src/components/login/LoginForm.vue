@@ -116,7 +116,7 @@ export default {
   padding-bottom: 105px;
   background: #fee0bc;
   color: black;
-  width: 900px;
+  width: 100%;
   height: auto;
 }
 #basic-addon1{
